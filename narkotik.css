@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+
+}
+
+img {
+    width: 100%;
+   border-radius: 7px;
+   
+}
+.row{
+    align-items: center;
+}
+ 
+.border{
+    border-top: 1px solid #0a0a0a;
+    margin: 30px 0;
+}
+ 
+.narkot-img-2{
+   border-radius: 15px;
+}
+
+.text {
+    font-size: 1.145em;
+}
+
+.text-1 {
+    font-size: 1.145em;
+    margin-bottom: 100px;
+}
+
+.lxgw-wenkai-tc-regular {
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+h1 {
+    font-family: "LXGW WenKai TC", cursive;
+    text-align: center;
+    text-shadow: 4px 4px 0px #a3a3a3, 7px 7px 0px rgba(0, 0, 0, 0.2);
+    /* font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+        "AppleGothic", sans-serif; */
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+body{
+    background-color: rgb(196, 191, 198);
+}
